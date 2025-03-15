@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte do programa **Decola Tech Avanade 2025*
 ### 🚀 Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/barber-shop-ui.git
+   git clone git@github.com:aguedamaiara/barber-shop-ui.git
    ```
 2. Instale as dependências:
    ```bash
@@ -44,10 +44,4 @@ Este projeto foi desenvolvido como parte do programa **Decola Tech Avanade 2025*
 - Consumir APIs REST de forma eficiente.
 - Aplicar boas práticas de componentização e organização de código.
 
----
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
